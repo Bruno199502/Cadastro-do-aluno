@@ -2,3 +2,4 @@ Matricula:
 Nome: 
 e-mail:
 telefone: 
+Disciplinas que leciona:
